@@ -6,6 +6,7 @@ $(function(){
       autoplay: {
         delay: 5000,
       },
+      loop:true,
       navigation: {
         nextEl: '#header .swiper-button-next',
         prevEl: '#header .swiper-button-prev',
