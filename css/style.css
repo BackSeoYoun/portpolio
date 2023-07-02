@@ -728,6 +728,10 @@ width: 1200px;
     .project-link {
         margin-top: 5px;
     }
+    .project-link button {
+        background: none;
+        border: none;
+    }
     .project-view {
         display: none;      
     }
